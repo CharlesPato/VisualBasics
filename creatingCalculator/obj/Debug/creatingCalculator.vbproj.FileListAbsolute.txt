@@ -1,0 +1,12 @@
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\bin\Debug\creatingCalculator.exe.config
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\bin\Debug\creatingCalculator.exe
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\bin\Debug\creatingCalculator.pdb
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\bin\Debug\creatingCalculator.xml
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\obj\Debug\creatingCalculator.Form1.resources
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\obj\Debug\creatingCalculator.Resources.resources
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\obj\Debug\creatingCalculator.vbproj.GenerateResource.cache
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\obj\Debug\creatingCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\obj\Debug\creatingCalculator.exe
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\obj\Debug\creatingCalculator.xml
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\obj\Debug\creatingCalculator.pdb
+C:\Users\charl\source\repos\creatingCalculator\creatingCalculator\obj\Debug\creatingCalculator.vbproj.AssemblyReference.cache
